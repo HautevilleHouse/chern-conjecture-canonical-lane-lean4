@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "The Chern Conjecture via Affine-Connection Persistence Lean 4 Proof Package"
+message: "If you use this Lean proof package, cite this repository and the source Canonical Lane manuscript."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/chern-conjecture-canonical-lane-lean4"
+url: "https://github.com/HautevilleHouse/chern-conjecture-canonical-lane-lean4"
+license: None
+keywords:
+  - "lean4"
+  - "formalization"
+  - "mathematical-proof"
+  - "canonical-lane"
+  - "reviewer-bridge"
+  - "affine-geometry"
+  - "chern-conjecture"
+  - "differential-geometry"
+  - "topology"
+  - "reproducibility"
+preferred-citation:
+  type: article
+  title: "The Chern Conjecture via Affine-Connection Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05

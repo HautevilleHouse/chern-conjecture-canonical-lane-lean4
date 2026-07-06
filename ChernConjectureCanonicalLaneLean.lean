@@ -1,0 +1,7 @@
+-- This module is the root of the ChernConjectureCanonicalLaneLean Lean proof package.
+import ChernConjectureCanonicalLaneLean.Basic
+import ChernConjectureCanonicalLaneLean.SourcePackage
+import ChernConjectureCanonicalLaneLean.SourceDependencies
+import ChernConjectureCanonicalLaneLean.Formalization
+import ChernConjectureCanonicalLaneLean.ReviewerBridge
+import ChernConjectureCanonicalLaneLean.TheoremStatement
